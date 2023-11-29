@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @innns
-- 👀 I’m interested in CV
-- 🌱 I’m currently learning CV
 - 📫 How to reach me `x.zhang.hz@outlook.com`
 
 <!---
