@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @innns
-- 📫 How to reach me `x.zhang.hz@outlook.com`
+- 👋 Hi, I’m @innns, and here is my [homepage](https://innns.top)
 
 <!---
 innns/innns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
